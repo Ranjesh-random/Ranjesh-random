@@ -1,64 +1,77 @@
-# 👋 Hi, I'm Ranjesh!
+# Hi there! 👋 I'm Ranjesh Kumar Verma
 
-## 🚀 About Me
-
-I am a passionate Machine Learning (ML) Engineer dedicated to solving real-world problems through the power of Deep Learning (DL) and Machine Learning. Currently, I am pursuing my MSc at the Indian Institute of Information Technology (IIIT) Lucknow, specializing in Artificial Intelligence (AI) and Machine Learning. 
-
-### 🌱 What I'm Learning
-
-These days, I am diving deep into the fascinating world of Large Language Models (LLMs). From GPT to BERT, I am exploring the intricacies of these models and how they can revolutionize various applications in NLP.
-
-## 🎯 My Mission
-
-My goal is to leverage AI and ML to create innovative solutions that address complex challenges across different domains. Whether it's enhancing healthcare with predictive analytics or optimizing supply chains with intelligent forecasting, I am committed to making a positive impact.
-
-## 🛠️ Skills
-
-### Python & Libraries
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
-
-### Other Technologies & Tools
-
-- **Cloud Platforms**: AWS, Google Cloud, Azure
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Version Control**: Git, GitHub
-
-## 🏏 Hobbies
-
-When I’m not coding or researching, you’ll find me on the cricket field. Playing cricket not only keeps me active but also teaches me the importance of teamwork and strategy.
-
-## 📚 Projects
-
-### 1. **Emotion Detection in Emails**
-- **Description**: A tool that analyzes the emotional tone of emails to help users understand the underlying sentiment of received messages.
-- **Tech Stack**: Python, SpaCy, Transformers
-
-### 2. **AI-Powered Content Rewriter**
-- **Description**: An application that rewrites text to improve readability, enhance engagement, or match a specific writing style.
-- **Tech Stack**: Python, GPT-3, Streamlit
-
-### 3. **Fake Review Detector**
-- **Description**: A system that identifies and flags fake reviews on e-commerce platforms.
-- **Tech Stack**: Python, Scikit-learn, Flask
-
-## 📫 Get in Touch
-
-- **Email**: [Gmail](mailto:msa23022@iiitl.ac.in)
-- **LinkedIn**: [linkedin](https://www.linkedin.com/in/ranjesh-kumar-verma-1374682aa/)
-- **GitHub**: [github](https://github.com/Ranjesh-random)
+Welcome to my GitHub! I'm passionate about AI, Machine Learning, and Data Science. I love working on innovative projects that integrate cutting-edge technologies to solve real-world problems. Below, you'll find an overview of my education, skills, projects, and achievements.
 
 ---
 
-Feel free to reach out if you're interested in collaborating on exciting projects or just want to chat about the latest in AI and ML!
+## 🚀 About Me
+- 🎓 **Master's in Artificial Intelligence and Machine Learning** | *Indian Institute of Information Technology, Lucknow (2023 - 2025)*
+- 📚 **Bachelor’s in Mathematics** | *Dr. RMLAU, Ayodhya (2020 - 2023)*
+- 💡 Strong background in AI, ML, Data Science, and Software Development
+- 🏆 Achieved **All India Rank 1131 in IIT JAM 2023 (Mathematics)**
+- 🌱 Always learning new AI/ML frameworks, APIs, and tools
+- 🏏 **Hobby:** Playing Cricket
+
+---
+
+## 🔥 Projects
+### 📌 [Exam & Career Guidance AI Agent](https://github.com/Ranjesh-random/Exam-Career-Guidance-AI-Agent) *(Feb 2025)*
+- Developed a **Streamlit-based chatbot** to guide students on competitive exams, career paths, coaching centers, scholarships, and stress management.
+- Utilized **Google's Gemini AI** and **DuckDuckGo search tool** for accurate responses.
+
+### 📌 [Chat with Indian Polity using RAG](https://github.com/Ranjesh-random/chat_with_indian_polity) *(Dec 2024)*
+- Implemented **RAG (Retrieval-Augmented Generation)** to fetch relevant polity documents and provide intelligent answers using **LLM**.
+- Integrated **ChromaDB** for efficient document retrieval.
+
+### 📌 [Crop Production Analysis in Indian States](https://crop-production-analysis-in-indian-3cz2.onrender.com) *(Aug 2024)*
+- Built an ML model to **predict crop production** based on crop type, area, rainfall, and states.
+- Used **Flask** for deployment and optimized features to enhance prediction accuracy.
+
+### 📌 [Chat with Multiple Documents using Langchain](https://github.com/Ranjesh-random/Chat-With-Multiple-PDF-Documents) *(Oct 2024)*
+- Created a **Streamlit app** that allows users to query multiple PDFs using **LangChain**.
+- Implemented **summarization, named entity recognition, and RAG** techniques for improved document interactions.
+
+### 📌 [Audio Summarization LLM-Based App](https://github.com/Ranjesh-random/Audio-Summarization-App) *(Dec 2024)*
+- Developed an **audio summarization tool** using **Google Gemini Model** and **LangChain**.
+- Integrated **Pydub** for audio processing and deployed using **Streamlit**.
+
+### 📌 [Chatbot with LangGraph](https://github.com/Ranjesh-random/Chatbot-with-Langgraph) *(Feb 2025)*
+- Built an **advanced chatbot** using **LangGraph** and **Groq's Mixtral-8x7b** model.
+- Implemented **real-time web search** using **Tavily API**, deployed on **Streamlit**.
+
+---
+
+## 🛠 Technical Skills
+- **Programming Languages:** Python, C++, HTML, CSS
+- **ML & AI Frameworks:** PyTorch, TensorFlow, Keras, Scikit-Learn
+- **Libraries & Tools:** Streamlit, LangChain, LangGraph, Google Gemini API, FastAPI, Hugging Face Transformers, PyPDF2, Pydub
+- **Databases & APIs:** Qdrant, ChromaDB, Tavily API, Serper API
+- **Development Tools:** Jupyter Notebook, VS Code, Google Colab, Git, LaTeX
+
+---
+
+## 🏆 Achievements & Volunteering
+- **IIT JAM 2023:** Secured **AIR 1131 in Mathematics**
+- **NSS Volunteer & Leader:** Led community projects and awareness campaigns
+- **Teaching Assistant:** Assisted in teaching Mathematics to undergraduate students
+
+---
+
+## 🎮 Interactive GitHub Profile
+- 🚀 Explore my repositories for **cutting-edge AI and ML projects**.
+- 🔥 Check out interactive **Streamlit apps** showcasing my work.
+- 🌟 Contributions and collaborations are always welcome!
+- 📊 **GitHub Stats:** ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranjesh-random&show_icons=true&theme=radical)
+- 🏆 **Top Languages:** ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjesh-random&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: kumarvermaranjesh@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ranjesh-kumar-verma-1374682aa/)
+- 💻 [GitHub](https://github.com/Ranjesh-random)
+
+---
+
+### 🔥 Let's collaborate on AI, ML, and Data Science projects!
+
